@@ -1,5 +1,4 @@
 # JavaScript-Calculator
-# JavaScript Calculator
 
 A simple and responsive calculator built using HTML, CSS, and JavaScript. Performs arithmetic operations including addition, subtraction, multiplication, division, and modulus.
 
